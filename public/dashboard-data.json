@@ -1,0 +1,625 @@
+{
+  "kpis": {
+    "total_ordered": 22820994,
+    "total_received": 17662119,
+    "fill_rate": 81.3,
+    "shortfall": 5158875,
+    "unique_products": 155,
+    "total_pos": 445,
+    "total_line_items": 20783
+  },
+  "warehouse_summary": [
+    {
+      "warehouse_name": "NBOF1 - TIMAURD",
+      "revenue_received": 15682448.0,
+      "revenue_ordered": 19781362.0,
+      "qty_ordered": 150055,
+      "qty_received": 124178,
+      "pos": 233,
+      "products": 155,
+      "fill_rate": 83.0,
+      "share": 89.0
+    },
+    {
+      "warehouse_name": "NBOF3 - SAFARI",
+      "revenue_received": 1979671.0,
+      "revenue_ordered": 3039632.0,
+      "qty_ordered": 21985,
+      "qty_received": 15693,
+      "pos": 212,
+      "products": 130,
+      "fill_rate": 71.0,
+      "share": 11.0
+    }
+  ],
+  "market_share_trend": [
+    {
+      "period": "Early",
+      "supplier": "Prism Origin Ltd",
+      "revenue": 5616738,
+      "share": 49.3
+    },
+    {
+      "period": "Early",
+      "supplier": "Cyka Fresh Limited",
+      "revenue": 3890384,
+      "share": 34.1
+    },
+    {
+      "period": "Early",
+      "supplier": "FARM TO FEED KENYA",
+      "revenue": 1318222,
+      "share": 11.6
+    },
+    {
+      "period": "Early",
+      "supplier": "AAA Growers",
+      "revenue": 435145,
+      "share": 3.8
+    },
+    {
+      "period": "Early",
+      "supplier": "Evergreen Fresh Distribution Ltd",
+      "revenue": 0,
+      "share": 0.0
+    },
+    {
+      "period": "Mid",
+      "supplier": "Prism Origin Ltd",
+      "revenue": 4850081,
+      "share": 38.2
+    },
+    {
+      "period": "Mid",
+      "supplier": "Cyka Fresh Limited",
+      "revenue": 5148716,
+      "share": 40.6
+    },
+    {
+      "period": "Mid",
+      "supplier": "FARM TO FEED KENYA",
+      "revenue": 1528128,
+      "share": 12.0
+    },
+    {
+      "period": "Mid",
+      "supplier": "AAA Growers",
+      "revenue": 519210,
+      "share": 4.1
+    },
+    {
+      "period": "Mid",
+      "supplier": "Evergreen Fresh Distribution Ltd",
+      "revenue": 354441,
+      "share": 2.8
+    },
+    {
+      "period": "Late",
+      "supplier": "Prism Origin Ltd",
+      "revenue": 4393930,
+      "share": 22.3
+    },
+    {
+      "period": "Late",
+      "supplier": "Cyka Fresh Limited",
+      "revenue": 11778190,
+      "share": 59.8
+    },
+    {
+      "period": "Late",
+      "supplier": "FARM TO FEED KENYA",
+      "revenue": 1449366,
+      "share": 7.4
+    },
+    {
+      "period": "Late",
+      "supplier": "AAA Growers",
+      "revenue": 704065,
+      "share": 3.6
+    },
+    {
+      "period": "Late",
+      "supplier": "Evergreen Fresh Distribution Ltd",
+      "revenue": 948908,
+      "share": 4.8
+    }
+  ],
+  "top_products": [
+    {
+      "product_name": "Apple Pinklady 6pcs",
+      "revenue": 1307280.0,
+      "qty": 5470,
+      "avg_price": 234.0,
+      "pos": 312
+    },
+    {
+      "product_name": "Grapes Local 500g",
+      "revenue": 1085660.0,
+      "qty": 2847,
+      "avg_price": 380.0,
+      "pos": 327
+    },
+    {
+      "product_name": "Fresh Eggs 12 Pack",
+      "revenue": 678720.0,
+      "qty": 3232,
+      "avg_price": 210.0,
+      "pos": 244
+    },
+    {
+      "product_name": "Ripe Sweet Bananas P/Kg",
+      "revenue": 658290.0,
+      "qty": 4072,
+      "avg_price": 161.0,
+      "pos": 351
+    },
+    {
+      "product_name": "Organic Tomatoes p/kg",
+      "revenue": 652740.0,
+      "qty": 2955,
+      "avg_price": 220.0,
+      "pos": 345
+    },
+    {
+      "product_name": "Fresh Eggs 20 Pack",
+      "revenue": 639765.0,
+      "qty": 2031,
+      "avg_price": 315.0,
+      "pos": 208
+    },
+    {
+      "product_name": "Onions Red 1Kg",
+      "revenue": 615242.0,
+      "qty": 7944,
+      "avg_price": 77.0,
+      "pos": 148
+    },
+    {
+      "product_name": "Blueberry Punnet 125g",
+      "revenue": 463255.0,
+      "qty": 1482,
+      "avg_price": 311.0,
+      "pos": 236
+    },
+    {
+      "product_name": "Cut Watermelon",
+      "revenue": 432242.0,
+      "qty": 5672,
+      "avg_price": 76.0,
+      "pos": 353
+    },
+    {
+      "product_name": "Fresh Strawberry Fruits 250g",
+      "revenue": 424570.0,
+      "qty": 2228,
+      "avg_price": 191.0,
+      "pos": 192
+    },
+    {
+      "product_name": "Apple Green 1Kg",
+      "revenue": 381680.0,
+      "qty": 1439,
+      "avg_price": 266.0,
+      "pos": 178
+    },
+    {
+      "product_name": "Grapes - Red Punnet 500g",
+      "revenue": 372110.0,
+      "qty": 988,
+      "avg_price": 376.0,
+      "pos": 156
+    },
+    {
+      "product_name": "Organic Potatoes p/kg",
+      "revenue": 341880.0,
+      "qty": 1548,
+      "avg_price": 220.0,
+      "pos": 309
+    },
+    {
+      "product_name": "Orange Local 1Kg",
+      "revenue": 331630.0,
+      "qty": 3906,
+      "avg_price": 85.0,
+      "pos": 343
+    },
+    {
+      "product_name": "Pineapple Pc",
+      "revenue": 329880.0,
+      "qty": 3493,
+      "avg_price": 95.0,
+      "pos": 343
+    },
+    {
+      "product_name": "Tangerines Imported per kg",
+      "revenue": 313420.0,
+      "qty": 662,
+      "avg_price": 478.0,
+      "pos": 197
+    },
+    {
+      "product_name": "Unripe Avocado 1Kg",
+      "revenue": 292880.0,
+      "qty": 3634,
+      "avg_price": 80.0,
+      "pos": 340
+    },
+    {
+      "product_name": "Imported Lemon 0.5Kg",
+      "revenue": 290780.0,
+      "qty": 1647,
+      "avg_price": 178.0,
+      "pos": 148
+    },
+    {
+      "product_name": "Full Watermelon 6kg",
+      "revenue": 288780.0,
+      "qty": 981,
+      "avg_price": 295.0,
+      "pos": 123
+    },
+    {
+      "product_name": "Fresh Eggs 15 pack",
+      "revenue": 281650.0,
+      "qty": 1077,
+      "avg_price": 261.0,
+      "pos": 122
+    }
+  ],
+  "warehouse_trend": [
+    {
+      "warehouse_name": "NBOF1 - TIMAURD",
+      "period": "Early",
+      "revenue": 5940472.0,
+      "qty": 49098,
+      "products": 118
+    },
+    {
+      "warehouse_name": "NBOF1 - TIMAURD",
+      "period": "Mid",
+      "revenue": 5115192.0,
+      "qty": 38363,
+      "products": 121
+    },
+    {
+      "warehouse_name": "NBOF1 - TIMAURD",
+      "period": "Late",
+      "revenue": 4626784.0,
+      "qty": 36717,
+      "products": 106
+    },
+    {
+      "warehouse_name": "NBOF3 - SAFARI",
+      "period": "Early",
+      "revenue": 650717.0,
+      "qty": 5447,
+      "products": 110
+    },
+    {
+      "warehouse_name": "NBOF3 - SAFARI",
+      "period": "Mid",
+      "revenue": 691069.0,
+      "qty": 5024,
+      "products": 104
+    },
+    {
+      "warehouse_name": "NBOF3 - SAFARI",
+      "period": "Late",
+      "revenue": 637885.0,
+      "qty": 5222,
+      "products": 80
+    }
+  ],
+  "fill_rate_comparison": [
+    {
+      "supplier_name": "Cyka Fresh Limited",
+      "qty_ordered": 386736,
+      "qty_received": 360392,
+      "rev_ordered": 22825676.0,
+      "rev_received": 20817290.0,
+      "fill_rate": 93.0,
+      "shortfall": 2008386.0
+    },
+    {
+      "supplier_name": "Prism Origin Ltd",
+      "qty_ordered": 157698,
+      "qty_received": 130425,
+      "rev_ordered": 18231630.0,
+      "rev_received": 14860749.0,
+      "fill_rate": 83.0,
+      "shortfall": 3370881.0
+    },
+    {
+      "supplier_name": "FARM TO FEED KENYA",
+      "qty_ordered": 52316,
+      "qty_received": 46619,
+      "rev_ordered": 4986510.0,
+      "rev_received": 4295716.0,
+      "fill_rate": 89.0,
+      "shortfall": 690794.0
+    },
+    {
+      "supplier_name": "AAA Growers",
+      "qty_ordered": 23449,
+      "qty_received": 13453,
+      "rev_ordered": 2990744.0,
+      "rev_received": 1658420.0,
+      "fill_rate": 57.0,
+      "shortfall": 1332324.0
+    },
+    {
+      "supplier_name": "Evergreen Fresh Distribution Ltd",
+      "qty_ordered": 14372,
+      "qty_received": 8302,
+      "rev_ordered": 2164008.0,
+      "rev_received": 1303349.0,
+      "fill_rate": 58.0,
+      "shortfall": 860659.0
+    },
+    {
+      "supplier_name": "Burton & Bamber Company Ltd",
+      "qty_ordered": 2254,
+      "qty_received": 1541,
+      "rev_ordered": 423979.0,
+      "rev_received": 326609.0,
+      "fill_rate": 68.0,
+      "shortfall": 97370.0
+    }
+  ],
+  "dropped_products": [
+    {
+      "product_name": "Fresh Strawberry Fruits 250g",
+      "early_revenue": 274930.0,
+      "early_qty": 1447
+    },
+    {
+      "product_name": "Grapes - Red Punnet 500g",
+      "early_revenue": 228380.0,
+      "early_qty": 601
+    },
+    {
+      "product_name": "Fresh Chicken Capon Approx 1kg",
+      "early_revenue": 227000.0,
+      "early_qty": 454
+    },
+    {
+      "product_name": "Orange Imported Per Kg",
+      "early_revenue": 152760.0,
+      "early_qty": 728
+    },
+    {
+      "product_name": "Tomatoes 1kg",
+      "early_revenue": 124950.0,
+      "early_qty": 1666
+    },
+    {
+      "product_name": "Unripe Avocado Hass 1Kg",
+      "early_revenue": 76120.0,
+      "early_qty": 692
+    },
+    {
+      "product_name": "Fresh Carrot 1Kg",
+      "early_revenue": 72610.0,
+      "early_qty": 1526
+    },
+    {
+      "product_name": "Long Ripe banana 1kg",
+      "early_revenue": 59605.0,
+      "early_qty": 917
+    },
+    {
+      "product_name": "Banana 1/2kg",
+      "early_revenue": 43200.0,
+      "early_qty": 1440
+    },
+    {
+      "product_name": "Tangarine Imported 1 Pc",
+      "early_revenue": 41510.0,
+      "early_qty": 593
+    },
+    {
+      "product_name": "Imported Orange 1 Pc",
+      "early_revenue": 39200.0,
+      "early_qty": 1120
+    },
+    {
+      "product_name": "Potatoes White 1Kg",
+      "early_revenue": 34320.0,
+      "early_qty": 572
+    },
+    {
+      "product_name": "Lemon Local 1 Pc",
+      "early_revenue": 23050.0,
+      "early_qty": 922
+    },
+    {
+      "product_name": "Kiwi Import - 1 piece",
+      "early_revenue": 17000.0,
+      "early_qty": 170
+    },
+    {
+      "product_name": "Beetroot p/kg",
+      "early_revenue": 15125.0,
+      "early_qty": 121
+    }
+  ],
+  "growing_products": [
+    {
+      "product_name": "Blueberry Punnet 125g",
+      "early_qty": 65.0,
+      "late_qty": 967.0,
+      "late_rev": 301245.0,
+      "growth_pct": 1388.0
+    },
+    {
+      "product_name": "Capsicum Green 500g",
+      "early_qty": 242.0,
+      "late_qty": 1614.0,
+      "late_rev": 82112.0,
+      "growth_pct": 567.0
+    },
+    {
+      "product_name": "Dates 650G",
+      "early_qty": 30.0,
+      "late_qty": 79.0,
+      "late_rev": 29625.0,
+      "growth_pct": 163.0
+    },
+    {
+      "product_name": "Green Shelled Peas 500g",
+      "early_qty": 320.0,
+      "late_qty": 774.0,
+      "late_rev": 119040.0,
+      "growth_pct": 142.0
+    },
+    {
+      "product_name": "Unripe Avocado 1Kg",
+      "early_qty": 829.0,
+      "late_qty": 1877.0,
+      "late_rev": 152320.0,
+      "growth_pct": 126.0
+    },
+    {
+      "product_name": "Avocado 1 Pc",
+      "early_qty": 1770.0,
+      "late_qty": 3545.0,
+      "late_rev": 107460.0,
+      "growth_pct": 100.0
+    },
+    {
+      "product_name": "Apple Pinklady 6pcs",
+      "early_qty": 1298.0,
+      "late_qty": 2482.0,
+      "late_rev": 627750.0,
+      "growth_pct": 91.0
+    },
+    {
+      "product_name": "Ripe Sweet Bananas P/Kg",
+      "early_qty": 1023.0,
+      "late_qty": 1916.0,
+      "late_rev": 313330.0,
+      "growth_pct": 87.0
+    },
+    {
+      "product_name": "Fresh Local SP. Papaya;500gms",
+      "early_qty": 537.0,
+      "late_qty": 992.0,
+      "late_rev": 61598.0,
+      "growth_pct": 85.0
+    },
+    {
+      "product_name": "Spring Onion Bunch",
+      "early_qty": 1048.0,
+      "late_qty": 1793.0,
+      "late_rev": 54600.0,
+      "growth_pct": 71.0
+    }
+  ],
+  "pricing_comparison": [
+    {
+      "product_name": "Onions Red 1Kg",
+      "prism_price": 76.9,
+      "cyka_price": 91.1,
+      "prism_rev": 615242.0,
+      "diff_pct": 18.5
+    },
+    {
+      "product_name": "Blueberry Punnet 125g",
+      "prism_price": 311.0,
+      "cyka_price": 363.9,
+      "prism_rev": 463255.0,
+      "diff_pct": 17.0
+    },
+    {
+      "product_name": "Fresh Strawberry Fruits 250g",
+      "prism_price": 190.6,
+      "cyka_price": 230.0,
+      "prism_rev": 424570.0,
+      "diff_pct": 20.7
+    },
+    {
+      "product_name": "Grapes - Red Punnet 500g",
+      "prism_price": 376.4,
+      "cyka_price": 386.3,
+      "prism_rev": 372110.0,
+      "diff_pct": 2.6
+    },
+    {
+      "product_name": "Orange Local 1Kg",
+      "prism_price": 85.0,
+      "cyka_price": 100.0,
+      "prism_rev": 331630.0,
+      "diff_pct": 17.6
+    },
+    {
+      "product_name": "Imported Lemon 0.5Kg",
+      "prism_price": 177.6,
+      "cyka_price": 180.0,
+      "prism_rev": 290780.0,
+      "diff_pct": 1.3
+    },
+    {
+      "product_name": "Full Watermelon 6kg",
+      "prism_price": 295.2,
+      "cyka_price": 300.0,
+      "prism_rev": 288780.0,
+      "diff_pct": 1.6
+    },
+    {
+      "product_name": "Grapes - Green 500g",
+      "prism_price": 394.5,
+      "cyka_price": 472.1,
+      "prism_rev": 250730.0,
+      "diff_pct": 19.7
+    },
+    {
+      "product_name": "Raspberry Punnet 125g",
+      "prism_price": 200.0,
+      "cyka_price": 250.0,
+      "prism_rev": 242000.0,
+      "diff_pct": 25.0
+    },
+    {
+      "product_name": "Orange Imported Per Kg",
+      "prism_price": 209.6,
+      "cyka_price": 260.7,
+      "prism_rev": 215340.0,
+      "diff_pct": 24.4
+    },
+    {
+      "product_name": "Avocado 1 Pc",
+      "prism_price": 29.4,
+      "cyka_price": 35.0,
+      "prism_rev": 214305.0,
+      "diff_pct": 19.0
+    },
+    {
+      "product_name": "Green Shelled Peas 500g",
+      "prism_price": 147.8,
+      "cyka_price": 168.0,
+      "prism_rev": 200740.0,
+      "diff_pct": 13.6
+    },
+    {
+      "product_name": "Cucumber Local 1Kg",
+      "prism_price": 93.5,
+      "cyka_price": 105.0,
+      "prism_rev": 171765.0,
+      "diff_pct": 12.3
+    },
+    {
+      "product_name": "Kiwi Fruit 6 Pcs",
+      "prism_price": 537.7,
+      "cyka_price": 548.0,
+      "prism_rev": 147030.0,
+      "diff_pct": 1.9
+    },
+    {
+      "product_name": "Unripe Avocado Hass 1Kg",
+      "prism_price": 110.0,
+      "cyka_price": 166.9,
+      "prism_rev": 136510.0,
+      "diff_pct": 51.7
+    }
+  ]
+}
