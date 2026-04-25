@@ -1,13 +1,14 @@
+import fs from "fs";
+import path from "path";
 import Dashboard from "@/components/Dashboard";
 import type { DashboardData } from "@/lib/types";
 
-async function getData(): Promise<DashboardData> {
-  const base = process.env.NEXT_PUBLIC_BASE_URL ?? "http://localhost:3000";
-  const res = await fetch(`${base}/dashboard-data.json`, { cache: "no-store" });
-  return res.json();
+function getData(): DashboardData {
+  const file = path.join(process.cwd(), "public", "dashboard-data.json");
+  return JSON.parse(fs.readFileSync(file, "utf-8"));
 }
 
-export default async function Home() {
-  const data = await getData();
+export default function Home() {
+  const data = getData();
   return <Dashboard data={data} />;
 }
