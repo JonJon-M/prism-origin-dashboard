@@ -6,6 +6,8 @@ export interface KPIs {
   unique_products: number;
   total_pos: number;
   total_line_items: number;
+  date_from: string;
+  date_to: string;
 }
 
 export interface WarehouseSummary {
@@ -27,12 +29,18 @@ export interface MarketShareEntry {
   share: number;
 }
 
-export interface TopProduct {
-  product_name: string;
+export interface MarketShareMonthly {
+  month: string;
+  supplier: string;
+  revenue: number;
+  share: number;
+}
+
+export interface MonthlyTrend {
+  month: string;
   revenue: number;
   qty: number;
-  avg_price: number;
-  pos: number;
+  fill_rate: number;
 }
 
 export interface WarehouseTrend {
@@ -53,10 +61,26 @@ export interface FillRateEntry {
   shortfall: number;
 }
 
+export interface FillRatePeriod {
+  period: string;
+  qty_fill: number;
+  rev_fill: number;
+  shortfall: number;
+}
+
+export interface TopProduct {
+  product_name: string;
+  revenue: number;
+  qty: number;
+  avg_price: number;
+  pos: number;
+}
+
 export interface DroppedProduct {
   product_name: string;
   early_revenue: number;
   early_qty: number;
+  last_date: string;
 }
 
 export interface GrowingProduct {
@@ -78,10 +102,13 @@ export interface PricingComparison {
 export interface DashboardData {
   kpis: KPIs;
   warehouse_summary: WarehouseSummary[];
-  market_share_trend: MarketShareEntry[];
-  top_products: TopProduct[];
+  monthly_trend: MonthlyTrend[];
+  market_share_monthly: MarketShareMonthly[];
+  market_share_period: MarketShareEntry[];
   warehouse_trend: WarehouseTrend[];
+  top_products: TopProduct[];
   fill_rate_comparison: FillRateEntry[];
+  fill_rate_by_period: FillRatePeriod[];
   dropped_products: DroppedProduct[];
   growing_products: GrowingProduct[];
   pricing_comparison: PricingComparison[];

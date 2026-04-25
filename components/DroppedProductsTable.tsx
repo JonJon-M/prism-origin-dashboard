@@ -11,8 +11,9 @@ export default function DroppedProductsTable({ data }: Props) {
         <thead className="sticky top-0 bg-[#1A376C] text-white">
           <tr>
             <th className="px-3 py-2 text-left font-medium">Product</th>
-            <th className="px-3 py-2 text-right font-medium">Early Revenue</th>
-            <th className="px-3 py-2 text-right font-medium">Early Qty</th>
+            <th className="px-3 py-2 text-right font-medium">H1 2025 Rev</th>
+            <th className="px-3 py-2 text-right font-medium">H1 Qty</th>
+            <th className="px-3 py-2 text-right font-medium">Last Supplied</th>
           </tr>
         </thead>
         <tbody>
@@ -23,6 +24,7 @@ export default function DroppedProductsTable({ data }: Props) {
                 KES {d.early_revenue.toLocaleString()}
               </td>
               <td className="px-3 py-1.5 text-right">{d.early_qty.toLocaleString()}</td>
+              <td className="px-3 py-1.5 text-right text-slate-500">{d.last_date}</td>
             </tr>
           ))}
         </tbody>

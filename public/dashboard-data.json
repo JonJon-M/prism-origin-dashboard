@@ -6,7 +6,9 @@
     "shortfall": 5158875,
     "unique_products": 155,
     "total_pos": 445,
-    "total_line_items": 20783
+    "total_line_items": 20783,
+    "date_from": "2025-01-02",
+    "date_to": "2026-04-24"
   },
   "warehouse_summary": [
     {
@@ -32,96 +34,720 @@
       "share": 11.0
     }
   ],
-  "market_share_trend": [
+  "monthly_trend": [
     {
-      "period": "Early",
+      "month": "2025-01",
+      "revenue": 1857609.0,
+      "qty": 15805,
+      "fill_rate": 85.0
+    },
+    {
+      "month": "2025-02",
+      "revenue": 1396028.0,
+      "qty": 11597,
+      "fill_rate": 84.0
+    },
+    {
+      "month": "2025-03",
+      "revenue": 1729056.0,
+      "qty": 14779,
+      "fill_rate": 84.0
+    },
+    {
+      "month": "2025-04",
+      "revenue": 1450190.0,
+      "qty": 11197,
+      "fill_rate": 79.0
+    },
+    {
+      "month": "2025-05",
+      "revenue": 1480238.0,
+      "qty": 10963,
+      "fill_rate": 76.0
+    },
+    {
+      "month": "2025-06",
+      "revenue": 1236079.0,
+      "qty": 9784,
+      "fill_rate": 86.0
+    },
+    {
+      "month": "2025-07",
+      "revenue": 1083593.0,
+      "qty": 8435,
+      "fill_rate": 81.0
+    },
+    {
+      "month": "2025-08",
+      "revenue": 1070797.0,
+      "qty": 7486,
+      "fill_rate": 79.0
+    },
+    {
+      "month": "2025-09",
+      "revenue": 957333.0,
+      "qty": 6883,
+      "fill_rate": 82.0
+    },
+    {
+      "month": "2025-10",
+      "revenue": 781883.0,
+      "qty": 5960,
+      "fill_rate": 83.0
+    },
+    {
+      "month": "2025-11",
+      "revenue": 516650.0,
+      "qty": 4120,
+      "fill_rate": 85.0
+    },
+    {
+      "month": "2025-12",
+      "revenue": 763919.0,
+      "qty": 6637,
+      "fill_rate": 81.0
+    },
+    {
+      "month": "2026-01",
+      "revenue": 959427.0,
+      "qty": 7905,
+      "fill_rate": 85.0
+    },
+    {
+      "month": "2026-02",
+      "revenue": 892884.0,
+      "qty": 6770,
+      "fill_rate": 86.0
+    },
+    {
+      "month": "2026-03",
+      "revenue": 875615.0,
+      "qty": 6815,
+      "fill_rate": 84.0
+    },
+    {
+      "month": "2026-04",
+      "revenue": 610817.0,
+      "qty": 4735,
+      "fill_rate": 57.0
+    }
+  ],
+  "market_share_monthly": [
+    {
+      "month": "2025-01",
       "supplier": "Prism Origin Ltd",
-      "revenue": 5616738,
-      "share": 49.3
+      "revenue": 1567559,
+      "share": 53.2
     },
     {
-      "period": "Early",
+      "month": "2025-01",
       "supplier": "Cyka Fresh Limited",
-      "revenue": 3890384,
-      "share": 34.1
+      "revenue": 881684,
+      "share": 29.9
     },
     {
-      "period": "Early",
+      "month": "2025-01",
       "supplier": "FARM TO FEED KENYA",
-      "revenue": 1318222,
-      "share": 11.6
+      "revenue": 352743,
+      "share": 12.0
     },
     {
-      "period": "Early",
+      "month": "2025-01",
       "supplier": "AAA Growers",
-      "revenue": 435145,
-      "share": 3.8
+      "revenue": 101200,
+      "share": 3.4
     },
     {
-      "period": "Early",
+      "month": "2025-01",
       "supplier": "Evergreen Fresh Distribution Ltd",
       "revenue": 0,
       "share": 0.0
     },
     {
-      "period": "Mid",
+      "month": "2025-02",
       "supplier": "Prism Origin Ltd",
-      "revenue": 4850081,
-      "share": 38.2
+      "revenue": 1166023,
+      "share": 49.1
     },
     {
-      "period": "Mid",
+      "month": "2025-02",
       "supplier": "Cyka Fresh Limited",
-      "revenue": 5148716,
+      "revenue": 803654,
+      "share": 33.9
+    },
+    {
+      "month": "2025-02",
+      "supplier": "FARM TO FEED KENYA",
+      "revenue": 275627,
+      "share": 11.6
+    },
+    {
+      "month": "2025-02",
+      "supplier": "AAA Growers",
+      "revenue": 107060,
+      "share": 4.5
+    },
+    {
+      "month": "2025-02",
+      "supplier": "Evergreen Fresh Distribution Ltd",
+      "revenue": 0,
+      "share": 0.0
+    },
+    {
+      "month": "2025-03",
+      "supplier": "Prism Origin Ltd",
+      "revenue": 1462346,
+      "share": 49.5
+    },
+    {
+      "month": "2025-03",
+      "supplier": "Cyka Fresh Limited",
+      "revenue": 1040573,
+      "share": 35.3
+    },
+    {
+      "month": "2025-03",
+      "supplier": "FARM TO FEED KENYA",
+      "revenue": 297156,
+      "share": 10.1
+    },
+    {
+      "month": "2025-03",
+      "supplier": "AAA Growers",
+      "revenue": 109950,
+      "share": 3.7
+    },
+    {
+      "month": "2025-03",
+      "supplier": "Evergreen Fresh Distribution Ltd",
+      "revenue": 0,
+      "share": 0.0
+    },
+    {
+      "month": "2025-04",
+      "supplier": "Prism Origin Ltd",
+      "revenue": 1279790,
+      "share": 46.7
+    },
+    {
+      "month": "2025-04",
+      "supplier": "Cyka Fresh Limited",
+      "revenue": 1007206,
+      "share": 36.8
+    },
+    {
+      "month": "2025-04",
+      "supplier": "FARM TO FEED KENYA",
+      "revenue": 320529,
+      "share": 11.7
+    },
+    {
+      "month": "2025-04",
+      "supplier": "AAA Growers",
+      "revenue": 106845,
+      "share": 3.9
+    },
+    {
+      "month": "2025-04",
+      "supplier": "Evergreen Fresh Distribution Ltd",
+      "revenue": 0,
+      "share": 0.0
+    },
+    {
+      "month": "2025-05",
+      "supplier": "Prism Origin Ltd",
+      "revenue": 1291903,
+      "share": 43.4
+    },
+    {
+      "month": "2025-05",
+      "supplier": "Cyka Fresh Limited",
+      "revenue": 1064758,
+      "share": 35.8
+    },
+    {
+      "month": "2025-05",
+      "supplier": "FARM TO FEED KENYA",
+      "revenue": 460134,
+      "share": 15.5
+    },
+    {
+      "month": "2025-05",
+      "supplier": "AAA Growers",
+      "revenue": 100935,
+      "share": 3.4
+    },
+    {
+      "month": "2025-05",
+      "supplier": "Evergreen Fresh Distribution Ltd",
+      "revenue": 24852,
+      "share": 0.8
+    },
+    {
+      "month": "2025-06",
+      "supplier": "Prism Origin Ltd",
+      "revenue": 1037364,
+      "share": 46.8
+    },
+    {
+      "month": "2025-06",
+      "supplier": "Cyka Fresh Limited",
+      "revenue": 718559,
+      "share": 32.4
+    },
+    {
+      "month": "2025-06",
+      "supplier": "FARM TO FEED KENYA",
+      "revenue": 295108,
+      "share": 13.3
+    },
+    {
+      "month": "2025-06",
+      "supplier": "AAA Growers",
+      "revenue": 77218,
+      "share": 3.5
+    },
+    {
+      "month": "2025-06",
+      "supplier": "Evergreen Fresh Distribution Ltd",
+      "revenue": 42649,
+      "share": 1.9
+    },
+    {
+      "month": "2025-07",
+      "supplier": "Prism Origin Ltd",
+      "revenue": 884103,
       "share": 40.6
     },
     {
-      "period": "Mid",
+      "month": "2025-07",
+      "supplier": "Cyka Fresh Limited",
+      "revenue": 819864,
+      "share": 37.6
+    },
+    {
+      "month": "2025-07",
       "supplier": "FARM TO FEED KENYA",
-      "revenue": 1528128,
+      "revenue": 260645,
       "share": 12.0
     },
     {
-      "period": "Mid",
+      "month": "2025-07",
       "supplier": "AAA Growers",
-      "revenue": 519210,
-      "share": 4.1
+      "revenue": 115405,
+      "share": 5.3
     },
     {
-      "period": "Mid",
+      "month": "2025-07",
       "supplier": "Evergreen Fresh Distribution Ltd",
-      "revenue": 354441,
+      "revenue": 67549,
+      "share": 3.1
+    },
+    {
+      "month": "2025-08",
+      "supplier": "Prism Origin Ltd",
+      "revenue": 855157,
+      "share": 33.2
+    },
+    {
+      "month": "2025-08",
+      "supplier": "Cyka Fresh Limited",
+      "revenue": 1148336,
+      "share": 44.6
+    },
+    {
+      "month": "2025-08",
+      "supplier": "FARM TO FEED KENYA",
+      "revenue": 245180,
+      "share": 9.5
+    },
+    {
+      "month": "2025-08",
+      "supplier": "AAA Growers",
+      "revenue": 116135,
+      "share": 4.5
+    },
+    {
+      "month": "2025-08",
+      "supplier": "Evergreen Fresh Distribution Ltd",
+      "revenue": 110538,
+      "share": 4.3
+    },
+    {
+      "month": "2025-09",
+      "supplier": "Prism Origin Ltd",
+      "revenue": 796898,
+      "share": 29.1
+    },
+    {
+      "month": "2025-09",
+      "supplier": "Cyka Fresh Limited",
+      "revenue": 1342680,
+      "share": 49.0
+    },
+    {
+      "month": "2025-09",
+      "supplier": "FARM TO FEED KENYA",
+      "revenue": 318368,
+      "share": 11.6
+    },
+    {
+      "month": "2025-09",
+      "supplier": "AAA Growers",
+      "revenue": 119607,
+      "share": 4.4
+    },
+    {
+      "month": "2025-09",
+      "supplier": "Evergreen Fresh Distribution Ltd",
+      "revenue": 101195,
+      "share": 3.7
+    },
+    {
+      "month": "2025-10",
+      "supplier": "Prism Origin Ltd",
+      "revenue": 622793,
+      "share": 22.5
+    },
+    {
+      "month": "2025-10",
+      "supplier": "Cyka Fresh Limited",
+      "revenue": 1597748,
+      "share": 57.8
+    },
+    {
+      "month": "2025-10",
+      "supplier": "FARM TO FEED KENYA",
+      "revenue": 286595,
+      "share": 10.4
+    },
+    {
+      "month": "2025-10",
+      "supplier": "AAA Growers",
+      "revenue": 111000,
+      "share": 4.0
+    },
+    {
+      "month": "2025-10",
+      "supplier": "Evergreen Fresh Distribution Ltd",
+      "revenue": 75706,
+      "share": 2.7
+    },
+    {
+      "month": "2025-11",
+      "supplier": "Prism Origin Ltd",
+      "revenue": 444030,
+      "share": 24.3
+    },
+    {
+      "month": "2025-11",
+      "supplier": "Cyka Fresh Limited",
+      "revenue": 1090758,
+      "share": 59.7
+    },
+    {
+      "month": "2025-11",
+      "supplier": "FARM TO FEED KENYA",
+      "revenue": 139518,
+      "share": 7.6
+    },
+    {
+      "month": "2025-11",
+      "supplier": "AAA Growers",
+      "revenue": 97350,
+      "share": 5.3
+    },
+    {
+      "month": "2025-11",
+      "supplier": "Evergreen Fresh Distribution Ltd",
+      "revenue": 27048,
+      "share": 1.5
+    },
+    {
+      "month": "2025-12",
+      "supplier": "Prism Origin Ltd",
+      "revenue": 655979,
+      "share": 27.5
+    },
+    {
+      "month": "2025-12",
+      "supplier": "Cyka Fresh Limited",
+      "revenue": 1328481,
+      "share": 55.7
+    },
+    {
+      "month": "2025-12",
+      "supplier": "FARM TO FEED KENYA",
+      "revenue": 173468,
+      "share": 7.3
+    },
+    {
+      "month": "2025-12",
+      "supplier": "AAA Growers",
+      "revenue": 130411,
+      "share": 5.5
+    },
+    {
+      "month": "2025-12",
+      "supplier": "Evergreen Fresh Distribution Ltd",
+      "revenue": 62952,
+      "share": 2.6
+    },
+    {
+      "month": "2026-01",
+      "supplier": "Prism Origin Ltd",
+      "revenue": 793732,
+      "share": 24.6
+    },
+    {
+      "month": "2026-01",
+      "supplier": "Cyka Fresh Limited",
+      "revenue": 1886500,
+      "share": 58.5
+    },
+    {
+      "month": "2026-01",
+      "supplier": "FARM TO FEED KENYA",
+      "revenue": 218118,
+      "share": 6.8
+    },
+    {
+      "month": "2026-01",
+      "supplier": "AAA Growers",
+      "revenue": 121076,
+      "share": 3.8
+    },
+    {
+      "month": "2026-01",
+      "supplier": "Evergreen Fresh Distribution Ltd",
+      "revenue": 147150,
+      "share": 4.6
+    },
+    {
+      "month": "2026-02",
+      "supplier": "Prism Origin Ltd",
+      "revenue": 748144,
+      "share": 22.5
+    },
+    {
+      "month": "2026-02",
+      "supplier": "Cyka Fresh Limited",
+      "revenue": 1961184,
+      "share": 59.0
+    },
+    {
+      "month": "2026-02",
+      "supplier": "FARM TO FEED KENYA",
+      "revenue": 224606,
+      "share": 6.8
+    },
+    {
+      "month": "2026-02",
+      "supplier": "AAA Growers",
+      "revenue": 66289,
+      "share": 2.0
+    },
+    {
+      "month": "2026-02",
+      "supplier": "Evergreen Fresh Distribution Ltd",
+      "revenue": 266395,
+      "share": 8.0
+    },
+    {
+      "month": "2026-03",
+      "supplier": "Prism Origin Ltd",
+      "revenue": 719430,
+      "share": 18.6
+    },
+    {
+      "month": "2026-03",
+      "supplier": "Cyka Fresh Limited",
+      "revenue": 2378088,
+      "share": 61.4
+    },
+    {
+      "month": "2026-03",
+      "supplier": "FARM TO FEED KENYA",
+      "revenue": 283320,
+      "share": 7.3
+    },
+    {
+      "month": "2026-03",
+      "supplier": "AAA Growers",
+      "revenue": 93027,
+      "share": 2.4
+    },
+    {
+      "month": "2026-03",
+      "supplier": "Evergreen Fresh Distribution Ltd",
+      "revenue": 234165,
+      "share": 6.0
+    },
+    {
+      "month": "2026-04",
+      "supplier": "Prism Origin Ltd",
+      "revenue": 535497,
+      "share": 20.0
+    },
+    {
+      "month": "2026-04",
+      "supplier": "Cyka Fresh Limited",
+      "revenue": 1747215,
+      "share": 65.2
+    },
+    {
+      "month": "2026-04",
+      "supplier": "FARM TO FEED KENYA",
+      "revenue": 144602,
+      "share": 5.4
+    },
+    {
+      "month": "2026-04",
+      "supplier": "AAA Growers",
+      "revenue": 84912,
+      "share": 3.2
+    },
+    {
+      "month": "2026-04",
+      "supplier": "Evergreen Fresh Distribution Ltd",
+      "revenue": 143150,
+      "share": 5.3
+    }
+  ],
+  "market_share_period": [
+    {
+      "period": "H1 2025",
+      "supplier": "Prism Origin Ltd",
+      "revenue": 7804986,
+      "share": 48.2
+    },
+    {
+      "period": "H1 2025",
+      "supplier": "Cyka Fresh Limited",
+      "revenue": 5516434,
+      "share": 34.0
+    },
+    {
+      "period": "H1 2025",
+      "supplier": "FARM TO FEED KENYA",
+      "revenue": 2001297,
+      "share": 12.3
+    },
+    {
+      "period": "H1 2025",
+      "supplier": "AAA Growers",
+      "revenue": 603208,
+      "share": 3.7
+    },
+    {
+      "period": "H1 2025",
+      "supplier": "Evergreen Fresh Distribution Ltd",
+      "revenue": 67501,
+      "share": 0.4
+    },
+    {
+      "period": "H2 2025",
+      "supplier": "Prism Origin Ltd",
+      "revenue": 4258960,
+      "share": 29.4
+    },
+    {
+      "period": "H2 2025",
+      "supplier": "Cyka Fresh Limited",
+      "revenue": 7327868,
+      "share": 50.6
+    },
+    {
+      "period": "H2 2025",
+      "supplier": "FARM TO FEED KENYA",
+      "revenue": 1423773,
+      "share": 9.8
+    },
+    {
+      "period": "H2 2025",
+      "supplier": "AAA Growers",
+      "revenue": 689908,
+      "share": 4.8
+    },
+    {
+      "period": "H2 2025",
+      "supplier": "Evergreen Fresh Distribution Ltd",
+      "revenue": 444988,
+      "share": 3.1
+    },
+    {
+      "period": "Q1/Q2 2026",
+      "supplier": "Prism Origin Ltd",
+      "revenue": 2796803,
+      "share": 21.3
+    },
+    {
+      "period": "Q1/Q2 2026",
+      "supplier": "Cyka Fresh Limited",
+      "revenue": 7972988,
+      "share": 60.8
+    },
+    {
+      "period": "Q1/Q2 2026",
+      "supplier": "FARM TO FEED KENYA",
+      "revenue": 870646,
+      "share": 6.6
+    },
+    {
+      "period": "Q1/Q2 2026",
+      "supplier": "AAA Growers",
+      "revenue": 365304,
       "share": 2.8
     },
     {
-      "period": "Late",
-      "supplier": "Prism Origin Ltd",
-      "revenue": 4393930,
-      "share": 22.3
-    },
-    {
-      "period": "Late",
-      "supplier": "Cyka Fresh Limited",
-      "revenue": 11778190,
-      "share": 59.8
-    },
-    {
-      "period": "Late",
-      "supplier": "FARM TO FEED KENYA",
-      "revenue": 1449366,
-      "share": 7.4
-    },
-    {
-      "period": "Late",
-      "supplier": "AAA Growers",
-      "revenue": 704065,
-      "share": 3.6
-    },
-    {
-      "period": "Late",
+      "period": "Q1/Q2 2026",
       "supplier": "Evergreen Fresh Distribution Ltd",
-      "revenue": 948908,
-      "share": 4.8
+      "revenue": 790860,
+      "share": 6.0
+    }
+  ],
+  "warehouse_trend": [
+    {
+      "warehouse_name": "NBOF1 - TIMAURD",
+      "period": "H1 2025",
+      "revenue": 8193972.0,
+      "qty": 66390,
+      "products": 132
+    },
+    {
+      "warehouse_name": "NBOF1 - TIMAURD",
+      "period": "H2 2025",
+      "revenue": 4525082.0,
+      "qty": 34696,
+      "products": 118
+    },
+    {
+      "warehouse_name": "NBOF1 - TIMAURD",
+      "period": "Q1/Q2 2026",
+      "revenue": 2963394.0,
+      "qty": 23092,
+      "products": 97
+    },
+    {
+      "warehouse_name": "NBOF3 - SAFARI",
+      "period": "H1 2025",
+      "revenue": 955228.0,
+      "qty": 7735,
+      "products": 120
+    },
+    {
+      "warehouse_name": "NBOF3 - SAFARI",
+      "period": "H2 2025",
+      "revenue": 649093.0,
+      "qty": 4825,
+      "products": 92
+    },
+    {
+      "warehouse_name": "NBOF3 - SAFARI",
+      "period": "Q1/Q2 2026",
+      "revenue": 375350.0,
+      "qty": 3133,
+      "products": 76
     }
   ],
   "top_products": [
@@ -266,50 +892,6 @@
       "pos": 122
     }
   ],
-  "warehouse_trend": [
-    {
-      "warehouse_name": "NBOF1 - TIMAURD",
-      "period": "Early",
-      "revenue": 5940472.0,
-      "qty": 49098,
-      "products": 118
-    },
-    {
-      "warehouse_name": "NBOF1 - TIMAURD",
-      "period": "Mid",
-      "revenue": 5115192.0,
-      "qty": 38363,
-      "products": 121
-    },
-    {
-      "warehouse_name": "NBOF1 - TIMAURD",
-      "period": "Late",
-      "revenue": 4626784.0,
-      "qty": 36717,
-      "products": 106
-    },
-    {
-      "warehouse_name": "NBOF3 - SAFARI",
-      "period": "Early",
-      "revenue": 650717.0,
-      "qty": 5447,
-      "products": 110
-    },
-    {
-      "warehouse_name": "NBOF3 - SAFARI",
-      "period": "Mid",
-      "revenue": 691069.0,
-      "qty": 5024,
-      "products": 104
-    },
-    {
-      "warehouse_name": "NBOF3 - SAFARI",
-      "period": "Late",
-      "revenue": 637885.0,
-      "qty": 5222,
-      "products": 80
-    }
-  ],
   "fill_rate_comparison": [
     {
       "supplier_name": "Cyka Fresh Limited",
@@ -366,153 +948,188 @@
       "shortfall": 97370.0
     }
   ],
+  "fill_rate_by_period": [
+    {
+      "period": "H1 2025",
+      "qty_fill": 82.2,
+      "rev_fill": 78.0,
+      "shortfall": 2573220
+    },
+    {
+      "period": "H2 2025",
+      "qty_fill": 81.7,
+      "rev_fill": 78.9,
+      "shortfall": 1385163
+    },
+    {
+      "period": "Q1/Q2 2026",
+      "qty_fill": 78.2,
+      "rev_fill": 73.6,
+      "shortfall": 1200492
+    }
+  ],
   "dropped_products": [
     {
       "product_name": "Fresh Strawberry Fruits 250g",
-      "early_revenue": 274930.0,
-      "early_qty": 1447
+      "early_revenue": 360240.0,
+      "early_qty": 1896,
+      "last_date": "2025-06-30"
     },
     {
       "product_name": "Grapes - Red Punnet 500g",
-      "early_revenue": 228380.0,
-      "early_qty": 601
+      "early_revenue": 332890.0,
+      "early_qty": 882,
+      "last_date": "2025-06-30"
+    },
+    {
+      "product_name": "Raspberry Punnet 125g",
+      "early_revenue": 237000.0,
+      "early_qty": 1185,
+      "last_date": "2025-06-30"
     },
     {
       "product_name": "Fresh Chicken Capon Approx 1kg",
       "early_revenue": 227000.0,
-      "early_qty": 454
+      "early_qty": 454,
+      "last_date": "2025-05-12"
     },
     {
       "product_name": "Orange Imported Per Kg",
-      "early_revenue": 152760.0,
-      "early_qty": 728
+      "early_revenue": 200010.0,
+      "early_qty": 953,
+      "last_date": "2025-06-30"
+    },
+    {
+      "product_name": "Imported Lemon 0.5Kg",
+      "early_revenue": 189156.0,
+      "early_qty": 1022,
+      "last_date": "2025-06-30"
+    },
+    {
+      "product_name": "Full Watermelon 6kg",
+      "early_revenue": 186180.0,
+      "early_qty": 639,
+      "last_date": "2025-06-30"
+    },
+    {
+      "product_name": "Fresh Eggs 30 Pack",
+      "early_revenue": 141100.0,
+      "early_qty": 273,
+      "last_date": "2025-06-30"
     },
     {
       "product_name": "Tomatoes 1kg",
       "early_revenue": 124950.0,
-      "early_qty": 1666
+      "early_qty": 1666,
+      "last_date": "2025-02-10"
     },
     {
       "product_name": "Unripe Avocado Hass 1Kg",
-      "early_revenue": 76120.0,
-      "early_qty": 692
+      "early_revenue": 110220.0,
+      "early_qty": 1002,
+      "last_date": "2025-06-30"
     },
     {
       "product_name": "Fresh Carrot 1Kg",
       "early_revenue": 72610.0,
-      "early_qty": 1526
+      "early_qty": 1526,
+      "last_date": "2025-03-24"
     },
     {
       "product_name": "Long Ripe banana 1kg",
       "early_revenue": 59605.0,
-      "early_qty": 917
-    },
-    {
-      "product_name": "Banana 1/2kg",
-      "early_revenue": 43200.0,
-      "early_qty": 1440
+      "early_qty": 917,
+      "last_date": "2025-03-26"
     },
     {
       "product_name": "Tangarine Imported 1 Pc",
-      "early_revenue": 41510.0,
-      "early_qty": 593
+      "early_revenue": 58030.0,
+      "early_qty": 829,
+      "last_date": "2025-06-30"
     },
     {
       "product_name": "Imported Orange 1 Pc",
-      "early_revenue": 39200.0,
-      "early_qty": 1120
+      "early_revenue": 55580.0,
+      "early_qty": 1588,
+      "last_date": "2025-06-30"
     },
     {
-      "product_name": "Potatoes White 1Kg",
-      "early_revenue": 34320.0,
-      "early_qty": 572
-    },
-    {
-      "product_name": "Lemon Local 1 Pc",
-      "early_revenue": 23050.0,
-      "early_qty": 922
-    },
-    {
-      "product_name": "Kiwi Import - 1 piece",
-      "early_revenue": 17000.0,
-      "early_qty": 170
-    },
-    {
-      "product_name": "Beetroot p/kg",
-      "early_revenue": 15125.0,
-      "early_qty": 121
+      "product_name": "Banana 1/2kg",
+      "early_revenue": 46530.0,
+      "early_qty": 1551,
+      "last_date": "2025-05-19"
     }
   ],
   "growing_products": [
     {
-      "product_name": "Blueberry Punnet 125g",
-      "early_qty": 65.0,
-      "late_qty": 967.0,
-      "late_rev": 301245.0,
-      "growth_pct": 1388.0
+      "product_name": "Guava Fruit 500G",
+      "early_qty": 2.0,
+      "late_qty": 59.0,
+      "late_rev": 6210.0,
+      "growth_pct": 2850.0
+    },
+    {
+      "product_name": "Fresh Improved Kienyeji Chicken Whole 1.5kg",
+      "early_qty": 6.0,
+      "late_qty": 42.0,
+      "late_rev": 63000.0,
+      "growth_pct": 600.0
+    },
+    {
+      "product_name": "Tangerine Local 350g",
+      "early_qty": 168.0,
+      "late_qty": 954.0,
+      "late_rev": 58440.0,
+      "growth_pct": 467.9
+    },
+    {
+      "product_name": "Fresh Improved Kienyeji Chicken Whole 1.2kg",
+      "early_qty": 28.0,
+      "late_qty": 92.0,
+      "late_rev": 110400.0,
+      "growth_pct": 228.6
     },
     {
       "product_name": "Capsicum Green 500g",
-      "early_qty": 242.0,
-      "late_qty": 1614.0,
-      "late_rev": 82112.0,
-      "growth_pct": 567.0
+      "early_qty": 410.0,
+      "late_qty": 1343.0,
+      "late_rev": 66990.0,
+      "growth_pct": 227.6
     },
     {
-      "product_name": "Dates 650G",
-      "early_qty": 30.0,
-      "late_qty": 79.0,
-      "late_rev": 29625.0,
-      "growth_pct": 163.0
+      "product_name": "Blueberry Punnet 125g",
+      "early_qty": 277.0,
+      "late_qty": 639.0,
+      "late_rev": 201205.0,
+      "growth_pct": 130.7
+    },
+    {
+      "product_name": "Cucumber Kisumu 1Kg",
+      "early_qty": 16.0,
+      "late_qty": 34.0,
+      "late_rev": 5440.0,
+      "growth_pct": 112.5
+    },
+    {
+      "product_name": "Fresh Improved Kienyeji Eggs 30pc",
+      "early_qty": 11.0,
+      "late_qty": 17.0,
+      "late_rev": 11050.0,
+      "growth_pct": 54.5
     },
     {
       "product_name": "Green Shelled Peas 500g",
       "early_qty": 320.0,
-      "late_qty": 774.0,
-      "late_rev": 119040.0,
-      "growth_pct": 142.0
+      "late_qty": 449.0,
+      "late_rev": 70290.0,
+      "growth_pct": 40.3
     },
     {
-      "product_name": "Unripe Avocado 1Kg",
-      "early_qty": 829.0,
-      "late_qty": 1877.0,
-      "late_rev": 152320.0,
-      "growth_pct": 126.0
-    },
-    {
-      "product_name": "Avocado 1 Pc",
-      "early_qty": 1770.0,
-      "late_qty": 3545.0,
-      "late_rev": 107460.0,
-      "growth_pct": 100.0
-    },
-    {
-      "product_name": "Apple Pinklady 6pcs",
-      "early_qty": 1298.0,
-      "late_qty": 2482.0,
-      "late_rev": 627750.0,
-      "growth_pct": 91.0
-    },
-    {
-      "product_name": "Ripe Sweet Bananas P/Kg",
-      "early_qty": 1023.0,
-      "late_qty": 1916.0,
-      "late_rev": 313330.0,
-      "growth_pct": 87.0
-    },
-    {
-      "product_name": "Fresh Local SP. Papaya;500gms",
-      "early_qty": 537.0,
-      "late_qty": 992.0,
-      "late_rev": 61598.0,
-      "growth_pct": 85.0
-    },
-    {
-      "product_name": "Spring Onion Bunch",
-      "early_qty": 1048.0,
-      "late_qty": 1793.0,
-      "late_rev": 54600.0,
-      "growth_pct": 71.0
+      "product_name": "Dates 650G",
+      "early_qty": 50.0,
+      "late_qty": 63.0,
+      "late_rev": 23625.0,
+      "growth_pct": 26.0
     }
   ],
   "pricing_comparison": [
